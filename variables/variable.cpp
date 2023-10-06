@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 
     // dataType variableName = value 
-    
+
     string myName = "subodh";
     myName = "Bhalerao";
     cout << myName;
@@ -23,4 +23,8 @@ int main(){
         single line comment ctrl + /
 
         variables are like containers used to store data values.
+
+        git add .
+        git commit -m 'ur comment'
+        git push
      */
